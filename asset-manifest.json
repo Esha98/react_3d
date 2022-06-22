@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_3d/static/css/main.33d5dc5a.css",
+    "main.js": "/react_3d/static/js/main.2bdc3843.js",
+    "index.html": "/react_3d/index.html",
+    "main.33d5dc5a.css.map": "/react_3d/static/css/main.33d5dc5a.css.map",
+    "main.2bdc3843.js.map": "/react_3d/static/js/main.2bdc3843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33d5dc5a.css",
+    "static/js/main.2bdc3843.js"
+  ]
+}
